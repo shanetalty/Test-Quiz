@@ -42,6 +42,48 @@ const quizArray = [
     options: ["Leonardo Da Vinci", "Michelangelo", "Vincent Van Gogh", "Pablo Picasso"],
     correct: "Leonardo Da Vinci",
   },
+  {
+    id: "3",
+    question: "How many sides does a triangle have?",
+    options: ["2", "7", "4", "3"],
+    correct: "3",
+  },
+  {
+    id: "4",
+    question: "What is the largest ocean on Earth?",
+    options: ["Pacific", "Atlantic", "Arctic", "Indian"],
+    correct: "Pacific",
+  },
+  {
+    id: "5",
+    question: "What is the chemical symbol for gold?",
+    options: ["Au", "Go", "Fe", "Ga"],
+    correct: "Au",
+  },
+  {
+    id: "6",
+    question: "Which country is known for the Great Wall?",
+    options: ["China", "Ireland", "Russia", "India"],
+    correct: "China",
+  },
+  {
+    id: "7",
+    question: "How many colours are in a rainbow?",
+    options: ["7", "6", "4", "10"],
+    correct: "7",
+  },
+  {
+    id: "8",
+    question: "What is the tallest mammal in the world?",
+    options: ["Giraffe", "Elephant", "Ostrich", "Brown Bear"],
+    correct: "Giraffe",
+  },
+  {
+    id: "9",
+    question: "What is the largest organ in the human body?",
+    options: ["Skin", "Liver", "Brain", "Lungs"],
+    correct: "Skin",
+  },
   // Rest of the questions...
 ];
 
