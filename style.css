@@ -12,6 +12,7 @@
     -webkit-animation: AnimationName 19s ease infinite;
     -moz-animation: AnimationName 19s ease infinite;
     animation: AnimationName 19s ease infinite;
+    color:#000000
   }
   
   @-webkit-keyframes AnimationName {
@@ -152,5 +153,6 @@
     color: #ffffff;
   }
   
+
 
   
