@@ -14,7 +14,7 @@ body {
   animation: AnimationName 19s ease infinite;
   color: #000000;
   opacity: 0; /* Set initial opacity to 0 */
-  transition: opacity 1s ease; /* Add transition property */
+  transition: opacity 1.5s ease; /* Add transition property */
 }
 
 .fade-in {
@@ -175,3 +175,5 @@ body {
     font-size: 1.5em;
     color: #ffffff;
   }
+  
+
