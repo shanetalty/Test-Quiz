@@ -44,6 +44,8 @@
     justify-content: center;
     background-image: url(https://clutchco-static.s3.amazonaws.com/s3fs-public/logos/verve-logo.png?VersionId=eyAiE5TmZilEGtXVBDTukAIfQlPOixke);
     background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 20%;
   }
   
   button {
