@@ -89,9 +89,7 @@ const quizArray = [
 
 // Restart Quiz
 restart.addEventListener("click", () => {
-  initial();
-  displayContainer.classList.remove("hide");
-  scoreContainer.classList.add("hide");
+  location.reload();
 });
 
 // Next Button
