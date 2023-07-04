@@ -14,6 +14,14 @@ let scoreCount = 0;
 let count = 11;
 let countdown;
 
+// Hide quiz and display start screen
+window.addEventListener("load", () => {
+  startScreen.classList.remove("hide");
+  displayContainer.classList.add("hide");
+  document.body.classList.add("fade-in"); // Add fade-in class to body
+});
+
+
 // Questions and Options array
 const quizArray = [
   {
